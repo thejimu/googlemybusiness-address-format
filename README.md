@@ -1,3 +1,4 @@
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/thejimu/googlemybusiness-address-format/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/thejimu/googlemybusiness-address-format/?branch=master)
 # googlemybusiness-address-format
 Function to format address array from GoogleMyBusiness API into Taiwanese address format
 
