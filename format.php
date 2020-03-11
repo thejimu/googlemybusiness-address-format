@@ -1,6 +1,6 @@
 <?php
 
-public function addressFormat($addressObject)
+function addressFormat($addressObject)
     {
         $addressArray=[];
         if($addressObject['addressLines']!=null) {
